@@ -189,10 +189,11 @@
 			</xsl:if>
 			<xsl:if test="@not_null = 'true'">
 				<xsl:value-of select="' NOT NULL'" />
+				<xsl:if test="@unique = 'true'">
+					<xsl:value-of select="' UNIQUE'" />
+				</xsl:if>				
 			</xsl:if>
-			<xsl:if test="@unique = 'true'">
-				<xsl:value-of select="' UNIQUE'" />
-			</xsl:if>	
+				
 			<xsl:choose>
 				<xsl:when test="position() = last()">
 					<!--PRIMARY KEY-->
