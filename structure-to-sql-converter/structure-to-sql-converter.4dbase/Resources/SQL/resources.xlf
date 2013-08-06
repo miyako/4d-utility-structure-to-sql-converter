@@ -1,0 +1,927 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--                    
+    rResources file for 4D products.
+    Copyright (C) 2013 4D SAS.
+    This file is distributed under the same license as the 4D product package.
+-->
+
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN"
+"http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+
+<xliff version="1.0">
+    <file datatype="x-STR#" original="undefined" product-version="v14" source-language="en-US"
+        target-language="en-US">
+        <header>
+            <prop-group name="Xliff-Editor.4dbase">
+                <prop prop-type="version">1.0</prop>
+            </prop-group>
+            <note>The character &quot;%&quot; (out of a numerical context) is a meta-character that
+                will be replaced (often by a numeric value) before the string is displayed</note>
+            <note>Text between less than (&lt;) and greater than (&gt;) symbols is a variable&apos;s
+                name and must not be localised</note>
+            <note>\r, \t and \n are meta-characters.</note>
+        </header>
+        <body>
+            <group resname="SQL reserved names" id="was_1123">
+                <trans-unit id="1" resname="SQLReservedName_1" translate="no">
+                    <source>ABSOLUTE</source>
+                </trans-unit>
+                <trans-unit id="2" resname="SQLReservedName_2" translate="no">
+                    <source>ACTION</source>
+                </trans-unit>
+                <trans-unit id="3" resname="SQLReservedName_3" translate="no">
+                    <source>ADD</source>
+                </trans-unit>
+                <trans-unit id="4" resname="SQLReservedName_4" translate="no">
+                    <source>ADMIN</source>
+                </trans-unit>
+                <trans-unit id="5" resname="SQLReservedName_5" translate="no">
+                    <source>AFTER</source>
+                </trans-unit>
+                <trans-unit id="6" resname="SQLReservedName_6" translate="no">
+                    <source>AGGREGATE</source>
+                </trans-unit>
+                <trans-unit id="7" resname="SQLReservedName_7" translate="no">
+                    <source>ALIAS</source>
+                </trans-unit>
+                <trans-unit id="8" resname="SQLReservedName_8" translate="no">
+                    <source>ALL</source>
+                </trans-unit>
+                <trans-unit id="9" resname="SQLReservedName_9" translate="no">
+                    <source>ALLOCATE</source>
+                </trans-unit>
+                <trans-unit id="10" resname="SQLReservedName_10" translate="no">
+                    <source>ALTER</source>
+                </trans-unit>
+                <trans-unit id="11" resname="SQLReservedName_11" translate="no">
+                    <source>AND</source>
+                </trans-unit>
+                <trans-unit id="12" resname="SQLReservedName_12" translate="no">
+                    <source>ANY</source>
+                </trans-unit>
+                <trans-unit id="13" resname="SQLReservedName_13" translate="no">
+                    <source>ARE</source>
+                </trans-unit>
+                <trans-unit id="14" resname="SQLReservedName_14" translate="no">
+                    <source>ARRAY</source>
+                </trans-unit>
+                <trans-unit id="15" resname="SQLReservedName_15" translate="no">
+                    <source>AS</source>
+                </trans-unit>
+                <trans-unit id="16" resname="SQLReservedName_16" translate="no">
+                    <source>ASC</source>
+                </trans-unit>
+                <trans-unit id="17" resname="SQLReservedName_17" translate="no">
+                    <source>ASSERTION</source>
+                </trans-unit>
+                <trans-unit id="18" resname="SQLReservedName_18" translate="no">
+                    <source>AT</source>
+                </trans-unit>
+                <trans-unit id="19" resname="SQLReservedName_19" translate="no">
+                    <source>AUTHORIZATION</source>
+                </trans-unit>
+                <trans-unit id="20" resname="SQLReservedName_20" translate="no">
+                    <source>BEFORE</source>
+                </trans-unit>
+                <trans-unit id="21" resname="SQLReservedName_21" translate="no">
+                    <source>BEGIN</source>
+                </trans-unit>
+                <trans-unit id="22" resname="SQLReservedName_22" translate="no">
+                    <source>BINARY</source>
+                </trans-unit>
+                <trans-unit id="23" resname="SQLReservedName_23" translate="no">
+                    <source>BIT</source>
+                </trans-unit>
+                <trans-unit id="24" resname="SQLReservedName_24" translate="no">
+                    <source>BLOB</source>
+                </trans-unit>
+                <trans-unit id="25" resname="SQLReservedName_25" translate="no">
+                    <source>BOOLEAN</source>
+                </trans-unit>
+                <trans-unit id="26" resname="SQLReservedName_26" translate="no">
+                    <source>BOTH</source>
+                </trans-unit>
+                <trans-unit id="27" resname="SQLReservedName_27" translate="no">
+                    <source>BREADTH</source>
+                </trans-unit>
+                <trans-unit id="28" resname="SQLReservedName_28" translate="no">
+                    <source>BY</source>
+                </trans-unit>
+                <trans-unit id="29" resname="SQLReservedName_29" translate="no">
+                    <source>CALL</source>
+                </trans-unit>
+                <trans-unit id="30" resname="SQLReservedName_30" translate="no">
+                    <source>CASCADE</source>
+                </trans-unit>
+                <trans-unit id="31" resname="SQLReservedName_31" translate="no">
+                    <source>CASCADED</source>
+                </trans-unit>
+                <trans-unit id="32" resname="SQLReservedName_32" translate="no">
+                    <source>CASE</source>
+                </trans-unit>
+                <trans-unit id="33" resname="SQLReservedName_33" translate="no">
+                    <source>CAST</source>
+                </trans-unit>
+                <trans-unit id="34" resname="SQLReservedName_34" translate="no">
+                    <source>CATALOG</source>
+                </trans-unit>
+                <trans-unit id="35" resname="SQLReservedName_35" translate="no">
+                    <source>CHAR</source>
+                </trans-unit>
+                <trans-unit id="36" resname="SQLReservedName_36" translate="no">
+                    <source>CHARACTER</source>
+                </trans-unit>
+                <trans-unit id="37" resname="SQLReservedName_37" translate="no">
+                    <source>CHECK</source>
+                </trans-unit>
+                <trans-unit id="38" resname="SQLReservedName_38" translate="no">
+                    <source>CLASS</source>
+                </trans-unit>
+                <trans-unit id="39" resname="SQLReservedName_39" translate="no">
+                    <source>CLOB</source>
+                </trans-unit>
+                <trans-unit id="40" resname="SQLReservedName_40" translate="no">
+                    <source>CLOSE</source>
+                </trans-unit>
+                <trans-unit id="41" resname="SQLReservedName_41" translate="no">
+                    <source>COLLATE</source>
+                </trans-unit>
+                <trans-unit id="42" resname="SQLReservedName_42" translate="no">
+                    <source>COLLATION</source>
+                </trans-unit>
+                <trans-unit id="43" resname="SQLReservedName_43" translate="no">
+                    <source>COLUMN</source>
+                </trans-unit>
+                <trans-unit id="44" resname="SQLReservedName_44" translate="no">
+                    <source>COMMIT</source>
+                </trans-unit>
+                <trans-unit id="45" resname="SQLReservedName_45" translate="no">
+                    <source>COMPLETION</source>
+                </trans-unit>
+                <trans-unit id="46" resname="SQLReservedName_46" translate="no">
+                    <source>CONNECT</source>
+                </trans-unit>
+                <trans-unit id="47" resname="SQLReservedName_47" translate="no">
+                    <source>CONNECTION</source>
+                </trans-unit>
+                <trans-unit id="48" resname="SQLReservedName_48" translate="no">
+                    <source>CONSTRAINT</source>
+                </trans-unit>
+                <trans-unit id="49" resname="SQLReservedName_49" translate="no">
+                    <source>CONSTRAINTS</source>
+                </trans-unit>
+                <trans-unit id="50" resname="SQLReservedName_50" translate="no">
+                    <source>CONSTRUCTOR</source>
+                </trans-unit>
+                <trans-unit id="51" resname="SQLReservedName_51" translate="no">
+                    <source>CONTINUE</source>
+                </trans-unit>
+                <trans-unit id="52" resname="SQLReservedName_52" translate="no">
+                    <source>CORRESPONDING</source>
+                </trans-unit>
+                <trans-unit id="53" resname="SQLReservedName_53" translate="no">
+                    <source>CREATE</source>
+                </trans-unit>
+                <trans-unit id="54" resname="SQLReservedName_54" translate="no">
+                    <source>CROSS</source>
+                </trans-unit>
+                <trans-unit id="55" resname="SQLReservedName_55" translate="no">
+                    <source>CUBE</source>
+                </trans-unit>
+                <trans-unit id="56" resname="SQLReservedName_56" translate="no">
+                    <source>CURRENT</source>
+                </trans-unit>
+                <trans-unit id="57" resname="SQLReservedName_57" translate="no">
+                    <source>CURRENT_DATE</source>
+                </trans-unit>
+                <trans-unit id="58" resname="SQLReservedName_58" translate="no">
+                    <source>CURRENT_PATH</source>
+                </trans-unit>
+                <trans-unit id="59" resname="SQLReservedName_59" translate="no">
+                    <source>CURRENT_ROLE</source>
+                </trans-unit>
+                <trans-unit id="60" resname="SQLReservedName_60" translate="no">
+                    <source>CURRENT_TIME</source>
+                </trans-unit>
+                <trans-unit id="61" resname="SQLReservedName_61" translate="no">
+                    <source>CURRENT_TIMESTAMP</source>
+                </trans-unit>
+                <trans-unit id="62" resname="SQLReservedName_62" translate="no">
+                    <source>CURRENT_USER</source>
+                </trans-unit>
+                <trans-unit id="63" resname="SQLReservedName_63" translate="no">
+                    <source>CURSOR</source>
+                </trans-unit>
+                <trans-unit id="64" resname="SQLReservedName_64" translate="no">
+                    <source>CYCLE</source>
+                </trans-unit>
+                <trans-unit id="65" resname="SQLReservedName_65" translate="no">
+                    <source>DATA</source>
+                </trans-unit>
+                <trans-unit id="66" resname="SQLReservedName_66" translate="no">
+                    <source>DATE</source>
+                </trans-unit>
+                <trans-unit id="67" resname="SQLReservedName_67" translate="no">
+                    <source>DAY</source>
+                </trans-unit>
+                <trans-unit id="68" resname="SQLReservedName_68" translate="no">
+                    <source>DEALLOCATE</source>
+                </trans-unit>
+                <trans-unit id="69" resname="SQLReservedName_69" translate="no">
+                    <source>DEC</source>
+                </trans-unit>
+                <trans-unit id="70" resname="SQLReservedName_70" translate="no">
+                    <source>DECIMAL</source>
+                </trans-unit>
+                <trans-unit id="71" resname="SQLReservedName_71" translate="no">
+                    <source>DECLARE</source>
+                </trans-unit>
+                <trans-unit id="72" resname="SQLReservedName_72" translate="no">
+                    <source>DEFAULT</source>
+                </trans-unit>
+                <trans-unit id="73" resname="SQLReservedName_73" translate="no">
+                    <source>DEFERRABLE</source>
+                </trans-unit>
+                <trans-unit id="74" resname="SQLReservedName_74" translate="no">
+                    <source>DEFERRED</source>
+                </trans-unit>
+                <trans-unit id="75" resname="SQLReservedName_75" translate="no">
+                    <source>DELETE</source>
+                </trans-unit>
+                <trans-unit id="76" resname="SQLReservedName_76" translate="no">
+                    <source>DEPTH</source>
+                </trans-unit>
+                <trans-unit id="77" resname="SQLReservedName_77" translate="no">
+                    <source>DEREF</source>
+                </trans-unit>
+                <trans-unit id="78" resname="SQLReservedName_78" translate="no">
+                    <source>DESC</source>
+                </trans-unit>
+                <trans-unit id="79" resname="SQLReservedName_79" translate="no">
+                    <source>DESCRIBE</source>
+                </trans-unit>
+                <trans-unit id="80" resname="SQLReservedName_80" translate="no">
+                    <source>DESCRIPTOR</source>
+                </trans-unit>
+                <trans-unit id="81" resname="SQLReservedName_81" translate="no">
+                    <source>DESTROY</source>
+                </trans-unit>
+                <trans-unit id="82" resname="SQLReservedName_82" translate="no">
+                    <source>DESTRUCTOR</source>
+                </trans-unit>
+                <trans-unit id="83" resname="SQLReservedName_83" translate="no">
+                    <source>DETERMINISTIC</source>
+                </trans-unit>
+                <trans-unit id="84" resname="SQLReservedName_84" translate="no">
+                    <source>DIAGNOSTICS</source>
+                </trans-unit>
+                <trans-unit id="85" resname="SQLReservedName_85" translate="no">
+                    <source>DICTIONARY</source>
+                </trans-unit>
+                <trans-unit id="86" resname="SQLReservedName_86" translate="no">
+                    <source>DISCONNECT</source>
+                </trans-unit>
+                <trans-unit id="87" resname="SQLReservedName_87" translate="no">
+                    <source>DISTINCT</source>
+                </trans-unit>
+                <trans-unit id="88" resname="SQLReservedName_88" translate="no">
+                    <source>DOMAIN</source>
+                </trans-unit>
+                <trans-unit id="89" resname="SQLReservedName_89" translate="no">
+                    <source>DOUBLE</source>
+                </trans-unit>
+                <trans-unit id="90" resname="SQLReservedName_90" translate="no">
+                    <source>DROP</source>
+                </trans-unit>
+                <trans-unit id="91" resname="SQLReservedName_91" translate="no">
+                    <source>DYNAMIC</source>
+                </trans-unit>
+                <trans-unit id="92" resname="SQLReservedName_92" translate="no">
+                    <source>EACH</source>
+                </trans-unit>
+                <trans-unit id="93" resname="SQLReservedName_93" translate="no">
+                    <source>ELSE</source>
+                </trans-unit>
+                <trans-unit id="94" resname="SQLReservedName_94" translate="no">
+                    <source>END</source>
+                </trans-unit>
+                <trans-unit id="95" resname="SQLReservedName_95" translate="no">
+                    <source>END-EXEC</source>
+                </trans-unit>
+                <trans-unit id="96" resname="SQLReservedName_96" translate="no">
+                    <source>EQUALS</source>
+                </trans-unit>
+                <trans-unit id="97" resname="SQLReservedName_97" translate="no">
+                    <source>ESCAPE</source>
+                </trans-unit>
+                <trans-unit id="98" resname="SQLReservedName_98" translate="no">
+                    <source>EVERY</source>
+                </trans-unit>
+                <trans-unit id="99" resname="SQLReservedName_99" translate="no">
+                    <source>EXCEPT</source>
+                </trans-unit>
+                <trans-unit id="100" resname="SQLReservedName_100" translate="no">
+                    <source>EXCEPTION</source>
+                </trans-unit>
+                <trans-unit id="101" resname="SQLReservedName_101" translate="no">
+                    <source>EXEC</source>
+                </trans-unit>
+                <trans-unit id="102" resname="SQLReservedName_102" translate="no">
+                    <source>EXECUTE</source>
+                </trans-unit>
+                <trans-unit id="103" resname="SQLReservedName_103" translate="no">
+                    <source>EXTERNAL</source>
+                </trans-unit>
+                <trans-unit id="104" resname="SQLReservedName_104" translate="no">
+                    <source>FALSE</source>
+                </trans-unit>
+                <trans-unit id="105" resname="SQLReservedName_105" translate="no">
+                    <source>FETCH</source>
+                </trans-unit>
+                <trans-unit id="106" resname="SQLReservedName_106" translate="no">
+                    <source>FIRST</source>
+                </trans-unit>
+                <trans-unit id="107" resname="SQLReservedName_107" translate="no">
+                    <source>FLOAT</source>
+                </trans-unit>
+                <trans-unit id="108" resname="SQLReservedName_108" translate="no">
+                    <source>FOR</source>
+                </trans-unit>
+                <trans-unit id="109" resname="SQLReservedName_109" translate="no">
+                    <source>FOREIGN</source>
+                </trans-unit>
+                <trans-unit id="110" resname="SQLReservedName_110" translate="no">
+                    <source>FOUND</source>
+                </trans-unit>
+                <trans-unit id="111" resname="SQLReservedName_111" translate="no">
+                    <source>FREE</source>
+                </trans-unit>
+                <trans-unit id="112" resname="SQLReservedName_112" translate="no">
+                    <source>FROM</source>
+                </trans-unit>
+                <trans-unit id="113" resname="SQLReservedName_113" translate="no">
+                    <source>FULL</source>
+                </trans-unit>
+                <trans-unit id="114" resname="SQLReservedName_114" translate="no">
+                    <source>FUNCTION</source>
+                </trans-unit>
+                <trans-unit id="115" resname="SQLReservedName_115" translate="no">
+                    <source>GENERAL</source>
+                </trans-unit>
+                <trans-unit id="116" resname="SQLReservedName_116" translate="no">
+                    <source>GET</source>
+                </trans-unit>
+                <trans-unit id="117" resname="SQLReservedName_117" translate="no">
+                    <source>GLOBAL</source>
+                </trans-unit>
+                <trans-unit id="118" resname="SQLReservedName_118" translate="no">
+                    <source>GO</source>
+                </trans-unit>
+                <trans-unit id="119" resname="SQLReservedName_119" translate="no">
+                    <source>GOTO</source>
+                </trans-unit>
+                <trans-unit id="120" resname="SQLReservedName_120" translate="no">
+                    <source>GRANT</source>
+                </trans-unit>
+                <trans-unit id="121" resname="SQLReservedName_121" translate="no">
+                    <source>GROUP</source>
+                </trans-unit>
+                <trans-unit id="122" resname="SQLReservedName_122" translate="no">
+                    <source>GROUPING</source>
+                </trans-unit>
+                <trans-unit id="123" resname="SQLReservedName_123" translate="no">
+                    <source>HAVING</source>
+                </trans-unit>
+                <trans-unit id="124" resname="SQLReservedName_124" translate="no">
+                    <source>HOST</source>
+                </trans-unit>
+                <trans-unit id="125" resname="SQLReservedName_125" translate="no">
+                    <source>HOUR</source>
+                </trans-unit>
+                <trans-unit id="126" resname="SQLReservedName_126" translate="no">
+                    <source>IDENTITY</source>
+                </trans-unit>
+                <trans-unit id="127" resname="SQLReservedName_127" translate="no">
+                    <source>IGNORE</source>
+                </trans-unit>
+                <trans-unit id="128" resname="SQLReservedName_128" translate="no">
+                    <source>IMMEDIATE</source>
+                </trans-unit>
+                <trans-unit id="129" resname="SQLReservedName_129" translate="no">
+                    <source>IN</source>
+                </trans-unit>
+                <trans-unit id="130" resname="SQLReservedName_130" translate="no">
+                    <source>INDICATOR</source>
+                </trans-unit>
+                <trans-unit id="131" resname="SQLReservedName_131" translate="no">
+                    <source>INITIALIZE</source>
+                </trans-unit>
+                <trans-unit id="132" resname="SQLReservedName_132" translate="no">
+                    <source>INITIALLY</source>
+                </trans-unit>
+                <trans-unit id="133" resname="SQLReservedName_133" translate="no">
+                    <source>INNER</source>
+                </trans-unit>
+                <trans-unit id="134" resname="SQLReservedName_134" translate="no">
+                    <source>INOUT</source>
+                </trans-unit>
+                <trans-unit id="135" resname="SQLReservedName_135" translate="no">
+                    <source>INPUT</source>
+                </trans-unit>
+                <trans-unit id="136" resname="SQLReservedName_136" translate="no">
+                    <source>INSERT</source>
+                </trans-unit>
+                <trans-unit id="137" resname="SQLReservedName_137" translate="no">
+                    <source>INT</source>
+                </trans-unit>
+                <trans-unit id="138" resname="SQLReservedName_138" translate="no">
+                    <source>INTEGER</source>
+                </trans-unit>
+                <trans-unit id="139" resname="SQLReservedName_139" translate="no">
+                    <source>INTERSECT</source>
+                </trans-unit>
+                <trans-unit id="140" resname="SQLReservedName_140" translate="no">
+                    <source>INTERVAL</source>
+                </trans-unit>
+                <trans-unit id="141" resname="SQLReservedName_141" translate="no">
+                    <source>INTO</source>
+                </trans-unit>
+                <trans-unit id="142" resname="SQLReservedName_142" translate="no">
+                    <source>IS</source>
+                </trans-unit>
+                <trans-unit id="143" resname="SQLReservedName_143" translate="no">
+                    <source>ISOLATION</source>
+                </trans-unit>
+                <trans-unit id="144" resname="SQLReservedName_144" translate="no">
+                    <source>ITERATE</source>
+                </trans-unit>
+                <trans-unit id="145" resname="SQLReservedName_145" translate="no">
+                    <source>JOIN</source>
+                </trans-unit>
+                <trans-unit id="146" resname="SQLReservedName_146" translate="no">
+                    <source>KEY</source>
+                </trans-unit>
+                <trans-unit id="147" resname="SQLReservedName_147" translate="no">
+                    <source>LANGUAGE</source>
+                </trans-unit>
+                <trans-unit id="148" resname="SQLReservedName_148" translate="no">
+                    <source>LARGE</source>
+                </trans-unit>
+                <trans-unit id="149" resname="SQLReservedName_149" translate="no">
+                    <source>LAST</source>
+                </trans-unit>
+                <trans-unit id="150" resname="SQLReservedName_150" translate="no">
+                    <source>LATERAL</source>
+                </trans-unit>
+                <trans-unit id="151" resname="SQLReservedName_151" translate="no">
+                    <source>LEADING</source>
+                </trans-unit>
+                <trans-unit id="152" resname="SQLReservedName_152" translate="no">
+                    <source>LEFT</source>
+                </trans-unit>
+                <trans-unit id="153" resname="SQLReservedName_153" translate="no">
+                    <source>LESS</source>
+                </trans-unit>
+                <trans-unit id="154" resname="SQLReservedName_154" translate="no">
+                    <source>LEVEL</source>
+                </trans-unit>
+                <trans-unit id="155" resname="SQLReservedName_155" translate="no">
+                    <source>LIKE</source>
+                </trans-unit>
+                <trans-unit id="156" resname="SQLReservedName_156" translate="no">
+                    <source>LIMIT</source>
+                </trans-unit>
+                <trans-unit id="157" resname="SQLReservedName_157" translate="no">
+                    <source>LOCAL</source>
+                </trans-unit>
+                <trans-unit id="158" resname="SQLReservedName_158" translate="no">
+                    <source>LOCALTIME</source>
+                </trans-unit>
+                <trans-unit id="159" resname="SQLReservedName_159" translate="no">
+                    <source>LOCALTIMESTAMP</source>
+                </trans-unit>
+                <trans-unit id="160" resname="SQLReservedName_160" translate="no">
+                    <source>LOCATOR</source>
+                </trans-unit>
+                <trans-unit id="161" resname="SQLReservedName_161" translate="no">
+                    <source>MAP</source>
+                </trans-unit>
+                <trans-unit id="162" resname="SQLReservedName_162" translate="no">
+                    <source>MATCH</source>
+                </trans-unit>
+                <trans-unit id="163" resname="SQLReservedName_163" translate="no">
+                    <source>MINUTE</source>
+                </trans-unit>
+                <trans-unit id="164" resname="SQLReservedName_164" translate="no">
+                    <source>MODIFIES</source>
+                </trans-unit>
+                <trans-unit id="165" resname="SQLReservedName_165" translate="no">
+                    <source>MODIFY</source>
+                </trans-unit>
+                <trans-unit id="166" resname="SQLReservedName_166" translate="no">
+                    <source>MODULE</source>
+                </trans-unit>
+                <trans-unit id="167" resname="SQLReservedName_167" translate="no">
+                    <source>MONTH</source>
+                </trans-unit>
+                <trans-unit id="168" resname="SQLReservedName_168" translate="no">
+                    <source>NAMES</source>
+                </trans-unit>
+                <trans-unit id="169" resname="SQLReservedName_169" translate="no">
+                    <source>NATIONAL</source>
+                </trans-unit>
+                <trans-unit id="170" resname="SQLReservedName_170" translate="no">
+                    <source>NATURAL</source>
+                </trans-unit>
+                <trans-unit id="171" resname="SQLReservedName_171" translate="no">
+                    <source>NCHAR</source>
+                </trans-unit>
+                <trans-unit id="172" resname="SQLReservedName_172" translate="no">
+                    <source>NCLOB</source>
+                </trans-unit>
+                <trans-unit id="173" resname="SQLReservedName_173" translate="no">
+                    <source>NEW</source>
+                </trans-unit>
+                <trans-unit id="174" resname="SQLReservedName_174" translate="no">
+                    <source>NEXT</source>
+                </trans-unit>
+                <trans-unit id="175" resname="SQLReservedName_175" translate="no">
+                    <source>NO</source>
+                </trans-unit>
+                <trans-unit id="176" resname="SQLReservedName_176" translate="no">
+                    <source>NONE</source>
+                </trans-unit>
+                <trans-unit id="177" resname="SQLReservedName_177" translate="no">
+                    <source>NOT</source>
+                </trans-unit>
+                <trans-unit id="178" resname="SQLReservedName_178" translate="no">
+                    <source>NULL</source>
+                </trans-unit>
+                <trans-unit id="179" resname="SQLReservedName_179" translate="no">
+                    <source>NUMERIC</source>
+                </trans-unit>
+                <trans-unit id="180" resname="SQLReservedName_180" translate="no">
+                    <source>OBJECT</source>
+                </trans-unit>
+                <trans-unit id="181" resname="SQLReservedName_181" translate="no">
+                    <source>OF</source>
+                </trans-unit>
+                <trans-unit id="182" resname="SQLReservedName_182" translate="no">
+                    <source>OFF</source>
+                </trans-unit>
+                <trans-unit id="183" resname="SQLReservedName_183" translate="no">
+                    <source>OLD</source>
+                </trans-unit>
+                <trans-unit id="184" resname="SQLReservedName_184" translate="no">
+                    <source>ON</source>
+                </trans-unit>
+                <trans-unit id="185" resname="SQLReservedName_185" translate="no">
+                    <source>ONLY</source>
+                </trans-unit>
+                <trans-unit id="186" resname="SQLReservedName_186" translate="no">
+                    <source>OPEN</source>
+                </trans-unit>
+                <trans-unit id="187" resname="SQLReservedName_187" translate="no">
+                    <source>OPERATION</source>
+                </trans-unit>
+                <trans-unit id="188" resname="SQLReservedName_188" translate="no">
+                    <source>OPTION</source>
+                </trans-unit>
+                <trans-unit id="189" resname="SQLReservedName_189" translate="no">
+                    <source>OR</source>
+                </trans-unit>
+                <trans-unit id="190" resname="SQLReservedName_190" translate="no">
+                    <source>ORDER</source>
+                </trans-unit>
+                <trans-unit id="191" resname="SQLReservedName_191" translate="no">
+                    <source>ORDINALITY</source>
+                </trans-unit>
+                <trans-unit id="192" resname="SQLReservedName_192" translate="no">
+                    <source>OUT</source>
+                </trans-unit>
+                <trans-unit id="193" resname="SQLReservedName_193" translate="no">
+                    <source>OUTER</source>
+                </trans-unit>
+                <trans-unit id="194" resname="SQLReservedName_194" translate="no">
+                    <source>OUTPUT</source>
+                </trans-unit>
+                <trans-unit id="195" resname="SQLReservedName_195" translate="no">
+                    <source>PAD</source>
+                </trans-unit>
+                <trans-unit id="196" resname="SQLReservedName_196" translate="no">
+                    <source>PARAMETER</source>
+                </trans-unit>
+                <trans-unit id="197" resname="SQLReservedName_197" translate="no">
+                    <source>PARAMETERS</source>
+                </trans-unit>
+                <trans-unit id="198" resname="SQLReservedName_198" translate="no">
+                    <source>PARTIAL</source>
+                </trans-unit>
+                <trans-unit id="199" resname="SQLReservedName_199" translate="no">
+                    <source>PATH</source>
+                </trans-unit>
+                <trans-unit id="200" resname="SQLReservedName_200" translate="no">
+                    <source>POSTFIX</source>
+                </trans-unit>
+                <trans-unit id="201" resname="SQLReservedName_201" translate="no">
+                    <source>PRECISION</source>
+                </trans-unit>
+                <trans-unit id="202" resname="SQLReservedName_202" translate="no">
+                    <source>PREFIX</source>
+                </trans-unit>
+                <trans-unit id="203" resname="SQLReservedName_203" translate="no">
+                    <source>PREORDER</source>
+                </trans-unit>
+                <trans-unit id="204" resname="SQLReservedName_204" translate="no">
+                    <source>PREPARE</source>
+                </trans-unit>
+                <trans-unit id="205" resname="SQLReservedName_205" translate="no">
+                    <source>PRESERVE</source>
+                </trans-unit>
+                <trans-unit id="206" resname="SQLReservedName_206" translate="no">
+                    <source>PRIMARY</source>
+                </trans-unit>
+                <trans-unit id="207" resname="SQLReservedName_207" translate="no">
+                    <source>PRIOR</source>
+                </trans-unit>
+                <trans-unit id="208" resname="SQLReservedName_208" translate="no">
+                    <source>PRIVILEGES</source>
+                </trans-unit>
+                <trans-unit id="209" resname="SQLReservedName_209" translate="no">
+                    <source>PROCEDURE</source>
+                </trans-unit>
+                <trans-unit id="210" resname="SQLReservedName_210" translate="no">
+                    <source>PUBLIC</source>
+                </trans-unit>
+                <trans-unit id="211" resname="SQLReservedName_211" translate="no">
+                    <source>READ</source>
+                </trans-unit>
+                <trans-unit id="212" resname="SQLReservedName_212" translate="no">
+                    <source>READS</source>
+                </trans-unit>
+                <trans-unit id="213" resname="SQLReservedName_213" translate="no">
+                    <source>REAL</source>
+                </trans-unit>
+                <trans-unit id="214" resname="SQLReservedName_214" translate="no">
+                    <source>RECURSIVE</source>
+                </trans-unit>
+                <trans-unit id="215" resname="SQLReservedName_215" translate="no">
+                    <source>REF</source>
+                </trans-unit>
+                <trans-unit id="216" resname="SQLReservedName_216" translate="no">
+                    <source>REFERENCES</source>
+                </trans-unit>
+                <trans-unit id="217" resname="SQLReservedName_217" translate="no">
+                    <source>REFERENCING</source>
+                </trans-unit>
+                <trans-unit id="218" resname="SQLReservedName_218" translate="no">
+                    <source>RELATIVE</source>
+                </trans-unit>
+                <trans-unit id="219" resname="SQLReservedName_219" translate="no">
+                    <source>RESTRICT</source>
+                </trans-unit>
+                <trans-unit id="220" resname="SQLReservedName_220" translate="no">
+                    <source>RESULT</source>
+                </trans-unit>
+                <trans-unit id="221" resname="SQLReservedName_221" translate="no">
+                    <source>RETURN</source>
+                </trans-unit>
+                <trans-unit id="222" resname="SQLReservedName_222" translate="no">
+                    <source>RETURNS</source>
+                </trans-unit>
+                <trans-unit id="223" resname="SQLReservedName_223" translate="no">
+                    <source>REVOKE</source>
+                </trans-unit>
+                <trans-unit id="224" resname="SQLReservedName_224" translate="no">
+                    <source>RIGHT</source>
+                </trans-unit>
+                <trans-unit id="225" resname="SQLReservedName_225" translate="no">
+                    <source>ROLE</source>
+                </trans-unit>
+                <trans-unit id="226" resname="SQLReservedName_226" translate="no">
+                    <source>ROLLBACK</source>
+                </trans-unit>
+                <trans-unit id="227" resname="SQLReservedName_227" translate="no">
+                    <source>ROLLUP</source>
+                </trans-unit>
+                <trans-unit id="228" resname="SQLReservedName_228" translate="no">
+                    <source>ROUTINE</source>
+                </trans-unit>
+                <trans-unit id="229" resname="SQLReservedName_229" translate="no">
+                    <source>ROW</source>
+                </trans-unit>
+                <trans-unit id="230" resname="SQLReservedName_230" translate="no">
+                    <source>ROWS</source>
+                </trans-unit>
+                <trans-unit id="231" resname="SQLReservedName_231" translate="no">
+                    <source>SAVEPOINT</source>
+                </trans-unit>
+                <trans-unit id="232" resname="SQLReservedName_232" translate="no">
+                    <source>SCHEMA</source>
+                </trans-unit>
+                <trans-unit id="233" resname="SQLReservedName_233" translate="no">
+                    <source>SCOPE</source>
+                </trans-unit>
+                <trans-unit id="234" resname="SQLReservedName_234" translate="no">
+                    <source>SCROLL</source>
+                </trans-unit>
+                <trans-unit id="235" resname="SQLReservedName_235" translate="no">
+                    <source>SEARCH</source>
+                </trans-unit>
+                <trans-unit id="236" resname="SQLReservedName_236" translate="no">
+                    <source>SECOND</source>
+                </trans-unit>
+                <trans-unit id="237" resname="SQLReservedName_237" translate="no">
+                    <source>SECTION</source>
+                </trans-unit>
+                <trans-unit id="238" resname="SQLReservedName_238" translate="no">
+                    <source>SELECT</source>
+                </trans-unit>
+                <trans-unit id="239" resname="SQLReservedName_239" translate="no">
+                    <source>SEQUENCE</source>
+                </trans-unit>
+                <trans-unit id="240" resname="SQLReservedName_240" translate="no">
+                    <source>SESSION</source>
+                </trans-unit>
+                <trans-unit id="241" resname="SQLReservedName_241" translate="no">
+                    <source>SESSION_USER</source>
+                </trans-unit>
+                <trans-unit id="242" resname="SQLReservedName_242" translate="no">
+                    <source>SET</source>
+                </trans-unit>
+                <trans-unit id="243" resname="SQLReservedName_243" translate="no">
+                    <source>SETS</source>
+                </trans-unit>
+                <trans-unit id="244" resname="SQLReservedName_244" translate="no">
+                    <source>SIZE</source>
+                </trans-unit>
+                <trans-unit id="245" resname="SQLReservedName_245" translate="no">
+                    <source>SMALLINT</source>
+                </trans-unit>
+                <trans-unit id="246" resname="SQLReservedName_246" translate="no">
+                    <source>SOME</source>
+                </trans-unit>
+                <trans-unit id="247" resname="SQLReservedName_247" translate="no">
+                    <source>SPACE</source>
+                </trans-unit>
+                <trans-unit id="248" resname="SQLReservedName_248" translate="no">
+                    <source>SPECIFIC</source>
+                </trans-unit>
+                <trans-unit id="249" resname="SQLReservedName_249" translate="no">
+                    <source>SPECIFICTYPE</source>
+                </trans-unit>
+                <trans-unit id="250" resname="SQLReservedName_250" translate="no">
+                    <source>SQL</source>
+                </trans-unit>
+                <trans-unit id="251" resname="SQLReservedName_251" translate="no">
+                    <source>SQLEXCEPTION</source>
+                </trans-unit>
+                <trans-unit id="252" resname="SQLReservedName_252" translate="no">
+                    <source>SQLSTATE</source>
+                </trans-unit>
+                <trans-unit id="253" resname="SQLReservedName_253" translate="no">
+                    <source>SQLWARNING</source>
+                </trans-unit>
+                <trans-unit id="254" resname="SQLReservedName_254" translate="no">
+                    <source>START</source>
+                </trans-unit>
+                <trans-unit id="255" resname="SQLReservedName_255" translate="no">
+                    <source>STATE</source>
+                </trans-unit>
+                <trans-unit id="256" resname="SQLReservedName_256" translate="no">
+                    <source>STATEMENT</source>
+                </trans-unit>
+                <trans-unit id="257" resname="SQLReservedName_257" translate="no">
+                    <source>STATIC</source>
+                </trans-unit>
+                <trans-unit id="258" resname="SQLReservedName_258" translate="no">
+                    <source>STRUCTURE</source>
+                </trans-unit>
+                <trans-unit id="259" resname="SQLReservedName_259" translate="no">
+                    <source>SYSTEM_USER</source>
+                </trans-unit>
+                <trans-unit id="260" resname="SQLReservedName_260" translate="no">
+                    <source>TABLE</source>
+                </trans-unit>
+                <trans-unit id="261" resname="SQLReservedName_261" translate="no">
+                    <source>TEMPORARY</source>
+                </trans-unit>
+                <trans-unit id="262" resname="SQLReservedName_262" translate="no">
+                    <source>TERMINATE</source>
+                </trans-unit>
+                <trans-unit id="263" resname="SQLReservedName_263" translate="no">
+                    <source>THAN</source>
+                </trans-unit>
+                <trans-unit id="264" resname="SQLReservedName_264" translate="no">
+                    <source>THEN</source>
+                </trans-unit>
+                <trans-unit id="265" resname="SQLReservedName_265" translate="no">
+                    <source>TIME</source>
+                </trans-unit>
+                <trans-unit id="266" resname="SQLReservedName_266" translate="no">
+                    <source>TIMESTAMP</source>
+                </trans-unit>
+                <trans-unit id="267" resname="SQLReservedName_267" translate="no">
+                    <source>TIMEZONE_HOUR</source>
+                </trans-unit>
+                <trans-unit id="268" resname="SQLReservedName_268" translate="no">
+                    <source>TIMEZONE_MINUTE</source>
+                </trans-unit>
+                <trans-unit id="269" resname="SQLReservedName_269" translate="no">
+                    <source>TO</source>
+                </trans-unit>
+                <trans-unit id="270" resname="SQLReservedName_270" translate="no">
+                    <source>TRAILING</source>
+                </trans-unit>
+                <trans-unit id="271" resname="SQLReservedName_271" translate="no">
+                    <source>TRANSACTION</source>
+                </trans-unit>
+                <trans-unit id="272" resname="SQLReservedName_272" translate="no">
+                    <source>TRANSLATION</source>
+                </trans-unit>
+                <trans-unit id="273" resname="SQLReservedName_273" translate="no">
+                    <source>TREAT</source>
+                </trans-unit>
+                <trans-unit id="274" resname="SQLReservedName_274" translate="no">
+                    <source>TRIGGER</source>
+                </trans-unit>
+                <trans-unit id="275" resname="SQLReservedName_275" translate="no">
+                    <source>TRUE</source>
+                </trans-unit>
+                <trans-unit id="276" resname="SQLReservedName_276" translate="no">
+                    <source>UNDER</source>
+                </trans-unit>
+                <trans-unit id="277" resname="SQLReservedName_277" translate="no">
+                    <source>UNION</source>
+                </trans-unit>
+                <trans-unit id="278" resname="SQLReservedName_278" translate="no">
+                    <source>UNIQUE</source>
+                </trans-unit>
+                <trans-unit id="279" resname="SQLReservedName_279" translate="no">
+                    <source>UNKNOWN</source>
+                </trans-unit>
+                <trans-unit id="280" resname="SQLReservedName_280" translate="no">
+                    <source>UNNEST</source>
+                </trans-unit>
+                <trans-unit id="281" resname="SQLReservedName_281" translate="no">
+                    <source>UPDATE</source>
+                </trans-unit>
+                <trans-unit id="282" resname="SQLReservedName_282" translate="no">
+                    <source>USAGE</source>
+                </trans-unit>
+                <trans-unit id="283" resname="SQLReservedName_283" translate="no">
+                    <source>USER</source>
+                </trans-unit>
+                <trans-unit id="284" resname="SQLReservedName_284" translate="no">
+                    <source>USING</source>
+                </trans-unit>
+                <trans-unit id="285" resname="SQLReservedName_285" translate="no">
+                    <source>VALUE</source>
+                </trans-unit>
+                <trans-unit id="286" resname="SQLReservedName_286" translate="no">
+                    <source>VALUES</source>
+                </trans-unit>
+                <trans-unit id="287" resname="SQLReservedName_287" translate="no">
+                    <source>VARCHAR</source>
+                </trans-unit>
+                <trans-unit id="288" resname="SQLReservedName_288" translate="no">
+                    <source>VARIABLE</source>
+                </trans-unit>
+                <trans-unit id="289" resname="SQLReservedName_289" translate="no">
+                    <source>VARYING</source>
+                </trans-unit>
+                <trans-unit id="290" resname="SQLReservedName_290" translate="no">
+                    <source>VIEW</source>
+                </trans-unit>
+                <trans-unit id="291" resname="SQLReservedName_291" translate="no">
+                    <source>WHEN</source>
+                </trans-unit>
+                <trans-unit id="292" resname="SQLReservedName_292" translate="no">
+                    <source>WHENEVER</source>
+                </trans-unit>
+                <trans-unit id="293" resname="SQLReservedName_293" translate="no">
+                    <source>WHERE</source>
+                </trans-unit>
+                <trans-unit id="294" resname="SQLReservedName_294" translate="no">
+                    <source>WITH</source>
+                </trans-unit>
+                <trans-unit id="295" resname="SQLReservedName_295" translate="no">
+                    <source>WITHOUT</source>
+                </trans-unit>
+                <trans-unit id="296" resname="SQLReservedName_296" translate="no">
+                    <source>WORK</source>
+                </trans-unit>
+                <trans-unit id="297" resname="SQLReservedName_297" translate="no">
+                    <source>WRITE</source>
+                </trans-unit>
+                <trans-unit id="298" resname="SQLReservedName_298" translate="no">
+                    <source>YEAR</source>
+                </trans-unit>
+                <trans-unit id="299" resname="SQLReservedName_299" translate="no">
+                    <source>ZONE</source>
+                </trans-unit>
+            </group>
+        </body>
+    </file>
+</xliff>
