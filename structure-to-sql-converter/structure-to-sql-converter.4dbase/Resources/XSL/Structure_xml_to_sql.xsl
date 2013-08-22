@@ -150,7 +150,7 @@
 					<xsl:value-of select="'TIMESTAMP'" />
 				</xsl:when>
 				<xsl:when test="@type = 9">
-					<xsl:value-of select="'TIMESTAMP'" />
+					<xsl:value-of select="'DURATION'" />
 				</xsl:when>
 				<xsl:when test="@type = 12">
 					<xsl:value-of select="'PICTURE'" />
