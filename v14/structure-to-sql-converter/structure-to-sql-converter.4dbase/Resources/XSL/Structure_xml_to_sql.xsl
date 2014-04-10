@@ -24,7 +24,7 @@
 			
 		<xsl:if test="$External">	
 			<xsl:text>&#x9;CREATE DATABASE IF NOT EXISTS DATAFILE :$pathName;&#xA;</xsl:text>
-			<xsl:text>&#x9;USE LOCAL DATABASE DATAFILE :$pathName;&#xA;&#xA;</xsl:text>			
+			<xsl:text>&#x9;USE LOCAL DATABASE DATAFILE :$pathName AUTO_CLOSE;&#xA;&#xA;</xsl:text>			
 		</xsl:if>
 				
 		<xsl:apply-templates select="/base/table" />
